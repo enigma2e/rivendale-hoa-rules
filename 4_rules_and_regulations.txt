@@ -4,13 +4,14 @@ Rev 0: Initial Draft, 1999-03-26
 Rev 1: Rule Updates, 2014-08
 Rev 2: Add Winterization Rule, 2015-12-03
 Rev 3: Add BBQ Rule, 2015-12-03
+Rev 4: Add Parking Rules, 2018-xx-xx
 ---
 
 RULES AND REGULATIONS
 FOR
 RIVENDALE AT MILL CREEK, A CONDOMINIUM
 
-Amended December 2015
+Amended xxx 2018
 
 We live in close proximity at Rivendale and these Rules and Regulations are intended to assist in
 promoting common sense and courtesy in our neighborhood without infringing on our enjoyment
@@ -49,21 +50,103 @@ stored inside the unit but may be placed on the curb, driveway, or walk way in f
 unit for up to 24 hours for the regularly scheduled collection date.
 
 5. Parking/Vehicles:
-  A. Vehicles may only be parked in marked parking spaces, garages or driveways, with
+  A. Vehicles shall only be parked in marked parking spaces, garages or driveways, with
 the exception of immediate loading or unloading of the vehicle. Vehicles parked in
-driveways may not have any portion of their tire on the blacktop of the roadway.
+driveways shall not have any portion of the vehicle envelope extend past the red "FIRE LANE NO
+PARKING" line on the curb (including tow-hitches, side-mirrors, and other such extensions).
 Any vehicle in violation of this regulation may be towed and impounded immediately without
 notice at the expense of the vehicle owner.
 
   B. NO PARKING AT ANY TIME IN A FIRE LANE. Fire lanes are marked. Our
 streets are too narrow in many places for the fire truck to get through if a car is parked
-illegally.
+illegally. The local Fire Marshal requires no less than 20 feet of clearance. Any vehicle in
+violation of this regulation may be towed and impounded immediately without notice at the
+expense of the vehicle owner.
 
-  C. All vehicles parked on the property must be operable passenger motor vehicles. They
-must also be currently legally registered.
-
-  D. All owners, tenants and guests at Rivendale are required to observe the speed limit of
+  C. All owners, tenants and guests at Rivendale are required to observe the speed limit of
 5 miles per hour or slower. 
+
+  D. All vehicles parked on the property shall be passenger motor vehicles in good mechanical
+condition, be fully-operable, and kept clean and free of debris. They shall have a current, valid
+registration with the State of Washington. Any vehicle in violation of this regulation may be
+towed and impounded immediately with 3-days notice at the expense of the vehicle owner.
+
+  E. All vehicles parked on the property shall not leave any debris or fluids on the pavement.
+Debris and fluids includes grease, dirt, rocks, trash, etc. The vehicle owner shall be held
+responsible for the clean-up and any pavement repairs required due to debris or fluids.
+
+  F. All vehicles parked on the property shall not display any "For-Sale" signs visible externally
+from the vehicle.
+
+  G. Common area parking shall be defined as lined parking stalls or individual concrete pads
+between buildings. 10% of the common area parking is to be used exclusively for Visitor Parking.
+
+  H. Limited common area parking shall be defined as the areas in front of garage doors that are
+large enough to accomodate a vehicle without violating section 5.A.
+
+  I. Marked common and limited common area parking shall be used only for unit owners, their
+tenants, or authorized visitors. If the owner rents out their unit, the parking privileges are
+transfered to their tenant for the duration of their lease and shall not be used by the owner.
+
+  J. Garages are intended, and by-definition, for the storage of the occupant's vehicles. All
+units were originally constructed to house two or more four-wheeled vehicles. Any available
+space over that requirement may be used for other applications.
+
+    i. Occupants with 1-2 four-wheeled vehicles shall park at least 1 vehicle in their garage.
+
+    ii. Occupants with 3-4 four-wheeled vehicles shall park at least 2 vehicles in their garage.
+
+    iii. Occupants with 4+ four-wheeled vehicles shall find other storage options at their expense
+external to Rivendale for the storage of those vehicles over the 4 vehicle limit.
+
+    iv. Interior parking shall not be used for 2nd or 3rd party rental (i.e. sub-leased) if an
+occupant's vehicle is occupying a commmon-element parking space.
+
+  K. Vehicle Tracking:
+    i. All vehicles kept on the property by unit owners and renters shall be registered with the
+Board and display a tag (sticker, decal, placard, etc.) indicating as such.
+
+Exceptions for short-term rental cars, repair shop loan vehicles, etc. may be accommodated through
+a written request to the Board or its agent.
+
+    ii. Tags shall be available through the Board or its agent. Information required for the
+registration includes license plate identifiers, vehicle make/model, owner name, owner unit number,
+valid contact phone number, and valid contact email address. The tags will have identifiers that
+may be looked up by the Board or its agent to locate the owner of the vehicle if there are any
+questions or concerns.
+
+    iii. Each unit shall be assigned two visitor tags for their visitors. Lost visitor tags may be
+replaced at $ 50.00 per tag.
+
+    iv. When vehicles are dispossesed or new vehicles acquired, the Board shall be notified within
+48 hours with the information required in section 5.G.i. License plate identifiers shall be
+provided when they are issued. A temporary email-message-permit may be printed and used until the
+License plate identifiers are available. A permanent tag shall then be issued.
+
+  L. All vehicles in common area parking shall be parked Head-In-First.
+
+  M. Common area parking shall be limited to motorcycles, cars or trucks no longer than 20 feet
+(including tow-hitches, side-mirrors, and other such extensions). This excludes shipping
+containers, trailers, etc. unless the Board has provided prior, written approval. Moving containers
+(e.g. PODs) may occupy no more than one parking space for no more than 24 hours. Longer terms may
+be accommodated with prior written consent from the Board. Permitted container combinations are two
+7 foot by 7 foot containers or a single 8 foot by 12 foot container.
+
+  N. No vehicle shall occupy any specific common area parking space for more than 72 consecutive
+hours. Longer periods of time may be arranged with prior written approval of the Board.
+
+  O. Parked vehicles shall not have any portion of the vehicle envelope (including tow-hitches,
+side-mirrors, and other such extensions) extend out of the parking space such that it interferes
+with the movement of other vehicles.
+
+  P. Vehicular repair shall not be performed in common or limited common area parking. It may be
+performed in the occupants garage as long as safety requirements are observed and hazardous chemical
+and noise rules are followed. The association nor the Board nor its agent shall not be held
+responsible for any injuries or damage from such activities.
+  
+  Q. Failure to adhere to the above vehicular and parking rules and regulations may result in the
+vehicle being removed and/or result in a fine per the 2013 Rivendale at Mill Creek Owners
+Association Fine Schedule Policy Resolution.
 
 6. Plants: No one may plant anything in the common elements at Rivendale without the
 express prior approval of the Rivendale Homeowners Board of Directors. 
