@@ -3,6 +3,7 @@ History:
 Rev 0: Initial Draft, 1999-03-26
 Rev 1: Rule Updates, 2014-08
 Rev 2: Add Winterization Rule, 2015-12-03
+Rev 3: Add BBQ Rule, 2015-12-03
 ---
 
 RULES AND REGULATIONS
@@ -125,6 +126,11 @@ other means available to the Association to recover the funds delinquent on the 
 faucets open
     iii. Drain any appliance, such as a water heater, that may have residual water in it
     iv. Add bio-friendly antifreeze solution to drain traps and toilets
+
+12. Use of Barbeques and Smokers: All permitted barbeques and smokers shall be no less than 24 inches
+from combustible materials including, but not limited to, vinyl siding and wood trim when in use.
+Only when barbeques and smokers are not in use and have cooled to the point that the palm of a hand
+can be placed fully upon them, may they be stored in close proximity to combustible materials.
 
 
 ADOPTED BY RIVENDALE CONDOMINIUM ASSOCIATION:
